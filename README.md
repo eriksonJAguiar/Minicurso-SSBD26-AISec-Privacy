@@ -3,6 +3,7 @@
 **Simpósio Brasileiro de Banco de Dados (SBDD) 2026 - Minicourse**
 
 **Authors:** Erikson Julio de Aguiar, Êrica Peters do Carmo, Agma Juci Machado Traina,Caetano Traina Junior
+
 **Affiliation:** Instituto de Ciências Matemáticas e de Computação – Universidade de São Paulo (USP)São Carlos – SP – Brasil
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://books-sol.sbc.org.br/index.php/sbc/catalog/view/209/939/2014)
